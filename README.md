@@ -1,24 +1,24 @@
 # 💫 About Me:
-👋 Hi, **I'm Saideepthi Cheerladinne**
-🎓 I'm Final Year B.Tech Student in Artificial Intelligence and Data Science at VVIT, Guntur
-💻 I'm passionate about web development and committed to building dynamic, responsive, and user-friendly web applications.
-🌱 Currently enhancing my skills through real-time projects and internships.
+👋 Hi, **I'm Saideepthi Cheerladinne** <br>
+🎓 I'm Final Year B.Tech Student in Artificial Intelligence and Data Science at VVIT, Guntur <br>
+💻 I'm passionate about web development and committed to building dynamic, responsive, and user-friendly web applications. <br>
+🌱 Currently enhancing my skills through real-time projects and internships. <br>
 
 ## 🛠️ Skills & Tools
 
-**Programming Languages**: Python, Java, Data Structure and Algorithms (familiar)
-**Development**: HTML5, CSS3, Bootstrap , JavaScript, React, Node.js
-**Database**: MySQL, MongoDB (familiar)
-**Developer Tools & Version Control**: VS Code, GitHub
-**Soft Skills**: Problem Solving, Communication, Teamwork, Creativity
+**Programming Languages**: Python, Java, Data Structure and Algorithms (familiar) <br>
+**Development**: HTML5, CSS3, Bootstrap , JavaScript, React, Node.js <br>
+**Database**: MySQL, MongoDB (familiar) <br>
+**Developer Tools & Version Control**: VS Code, GitHub <br>
+**Soft Skills**: Problem Solving, Communication, Teamwork, Creativity <br>
 
 ## 📌 Notable Projects
 
-### 🪑 EduSeater
-A smart exam seating planner that takes student and room data, allocates seats, and streamlines invigilation assignments.
+### 🪑 EduSeater <br>
+A smart exam seating planner that takes student and room data, allocates seats, and streamlines invigilation assignments. <br>
 
-###  ✅ To-Do List Web App
-A simple, responsive to-do list application for managing everyday tasks. Built with HTML, CSS, and JavaScript.
+###  ✅ To-Do List Web App <br>
+A simple, responsive to-do list application for managing everyday tasks. Built with HTML, CSS, and JavaScript. <br>
 
 *More coming soon…*
 
